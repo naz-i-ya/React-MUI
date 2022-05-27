@@ -1,0 +1,18 @@
+Typography: 
+  -->To use MUI's Typography we first need to import at the top
+  " import { Typography } from '@mui/material' "
+  -->Then invoke into jsx by opening and closing tags like :<Typography></Typography>
+  -->There are 13 different variations and i'm going to cover 10 in this 
+
+  Headings variants: To spacify the variant we use the variant prop it ranges from "h1 to h6"
+    like: <Typography variant='h1'>h1 Heading</Typography>
+    There are 2 more variants of the h6 tag which doesn't stand out as much as h6 varaint 
+    there are : subtitle1 and subtitle2[<Typography variant='subtitle1'>subtitle1</Typography>]
+
+  Body varaiants : To spacify the variant we use the variant prop body1 and body2
+    like: <Typography variant='body1'>para</Typography>
+    is as same as p tag.
+
+
+
+    
