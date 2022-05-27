@@ -41,16 +41,22 @@ MUI with Typescript
 ### STEP 1
 
  #### Run --
+
   ```sh
      npx  create-react-app react-mui --template typescript
    ```
+
 ### Install mui package
-     ```sh
+
+   ```sh
      npm i @mui/material @emotion/react @emotion/styled
    ```
 
 @mui/material ---> is the core MUI library
-@emotion --> is library design for writing css styles with JS. 
+@emotion --> is library design for writing css styles with JS.
+
+
+
 
 ## Author
 
