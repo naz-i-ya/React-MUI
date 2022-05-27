@@ -51,6 +51,7 @@ MUI with Typescript
    ```sh
      npm i @mui/material @emotion/react @emotion/styled
    ```
+   
 
 @mui/material ---> is the core MUI library
 @emotion --> is library design for writing css styles with JS.

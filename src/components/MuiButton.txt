@@ -1,0 +1,25 @@
+MuiButtons are native button or anchor elements enhanced with material design
+ -->To make use of  MUI buttons we need to import button component
+ -->This have 3 variants  text, contained and outlined
+
+
+Stack:Instead of wrapping div use Stack component
+  --> On stack copmo spacify spacing and direction[row:this will layout the child element in a row]
+  -->Button can become link by adding href
+
+Button Colors[goto docs --> Customization --> Palette]:MUI have predefined palette
+   For Default Theme[docs --> Customization -->Default Theme --> expand Palette obj]
+
+Button Size: We use size prop for smallar or larger button
+ -->Display flex is a default value,  it affects the sie of the buttons
+
+
+Icons:MUI has icons library [install by: npm i '@mui/icons-material: This package give access to the Icons set]
+  -->startIcon prop: Use before the text
+  -->endIcon prop: Use after the text
+
+Button with just Icon without any text MUI provides "IconButoon" component[import IconButoon to use]
+  -->Add aria-label for accessibility reasons
+  -->disableElevation: for disabling elevation
+  -->disableRipple: for disabling ripple effect
+  
