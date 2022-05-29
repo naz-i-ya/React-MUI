@@ -1,7 +1,7 @@
 # React Material UI: Current Version - 5
 
 UI component library provides us with components to build awsome user interfaces in quick time.
-Implementation of Google's material design specification
+
 
   ```sh
        Angular --  Aungular Material
